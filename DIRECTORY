@@ -1,0 +1,15 @@
+ambassadors-global-movement/
+├── .github/
+│   └── workflows/              # AUTOMATED REGULATORY PIPELINES
+│       └── content-validator.yml
+├── curriculum-assets/          # DISCIPLESHIP ENGINE DATA
+│   ├── books/                  # Raw Markdown for Books (e.g., Book 1: From Lost to Found)
+│   └── study-guides/           # 6-Session Forensic Small-Group matrices
+├── operational-infrastructure/ # MARKETPLACE EXECUTION CORPS
+│   ├── templates-email/        # Onboarding sequences & Partner Prospectus materials
+│   └── guild-toolkits/         # The 7 Spheres industrial deployment manuals
+├── security-compliance/        # HIGH-ACCOUNTABILITY PROTOCOLS
+│   ├── legal-covenants/        # Signed digital hashes of Mentor Covenants
+│   └── vetting-protocols/      # Background screening API configurations
+└── internal-governance/        # THE TEAM DIRECTORY
+    └── ai-garrison-registry.md # Cryptographic mapping of the 10 Specialized AI Agents
